@@ -11,3 +11,6 @@
 
 ## Four
 - see four.md
+
+## Feature Six
+- links to six.md
