@@ -1,6 +1,7 @@
 # New
 
 ## New addition
+- New addition has been improved by feature six
 - a new addition
 
 ## Second addition
