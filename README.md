@@ -4,6 +4,7 @@
 - this feature will change everything for the better
 
 ## New addition
+- Vastly improved by the above edge feature
 - A new addition
 
 ## Second addition
