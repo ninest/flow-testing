@@ -1,16 +1,23 @@
 # New
 
 ## New addition
-- a new addition
+- New addition has been improved by feature six
+- A new addition
 
 ## Second addition
-- second feature
+- Second feature
 
 ## Three
-- see the three.md for feature three
+- See the three.md for feature three
+- Soon: add more here
 
 ## Four
-- see four.md
+- See four.md
+- More points were added recently (September 5, 2020): almost done
 
 ## Five feature
-- adds feature 5, which does something
+- Adds feature 5, which does something
+
+## Feature Six
+- Links to six.md
+- We need to add more documentation here
