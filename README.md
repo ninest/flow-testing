@@ -18,4 +18,4 @@
 
 ## Feature Six
 - Links to six.md
-- we need to add more documentation here
+- We need to add more documentation here
