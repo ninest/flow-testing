@@ -2,7 +2,7 @@
 
 ## New addition
 - New addition has been improved by feature six
-- A new addition
+- A new addition, which solves a problem
 
 ## Second addition
 - Second feature
