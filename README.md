@@ -11,3 +11,4 @@
 
 ## Four
 - see four.md
+- more points were added recently (September 5, 2020)
