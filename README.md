@@ -5,3 +5,6 @@
 
 ## Second addition
 - second feature
+
+## Three
+- see the three.md for feature three
