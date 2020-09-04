@@ -1,7 +1,7 @@
 # New
 
 ## New addition
-- a new addition
+- A new addition
 
 ## Second addition
 - Second feature
