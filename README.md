@@ -13,4 +13,4 @@
 - see four.md
 
 ## Five feature
-- adds feature 5
+- adds feature 5, which does something
