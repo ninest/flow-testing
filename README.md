@@ -7,4 +7,5 @@
 - second feature
 
 ## Three
-- see the three.md for feature three
+- See the three.md for feature three
+- Soon: add more here
