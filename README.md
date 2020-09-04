@@ -4,17 +4,18 @@
 - a new addition
 
 ## Second addition
-- second feature
+- Second feature
 
 ## Three
-- see the three.md for feature three
+- See the three.md for feature three
 
 ## Four
-- see four.md
+- See four.md
+- More points were added recently (September 5, 2020)
 
 ## Five feature
-- adds feature 5
+- Adds feature 5
 
 ## Feature Six
-- links to six.md
+- Links to six.md
 - we need to add more documentation here
