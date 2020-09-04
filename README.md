@@ -10,8 +10,8 @@
 - see the three.md for feature three
 
 ## Four
-- see four.md
-- more points were added recently (September 5, 2020)
+- See four.md
+- More points were added recently (September 5, 2020): almost done
 
 ## Five feature
 - adds feature 5
