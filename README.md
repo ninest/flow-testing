@@ -1,6 +1,10 @@
 # New
 
+## Future future
+- this feature will change everything for the better
+
 ## New addition
+- Vastly improved by the above edge feature
 - New addition has been improved by feature six
 - A new addition, which solves a problem
 
